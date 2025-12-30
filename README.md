@@ -37,32 +37,17 @@ El sistema persiste la información utilizando un modelo relacional robusto en P
 * *Muchos a Muchos* (Expedientes <-> Involucrados).
 * *Uno a Muchos* (Reunión -> Temas/Minutas).
 
-## 📦 Instalación y Ejecución
-
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone [https://github.com/Luketi02/Proyecto-POO1-ASC-PUC-2025.git](https://github.com/Luketi02/Proyecto-POO1-ASC-PUC-2025.git)
-    ```
-2.  **Base de Datos:**
-    * Asegúrate de tener PostgreSQL instalado y corriendo.
-    * Crea una base de datos llamada `gestion_consejo` (o ajusta el nombre en el archivo `persistence.xml`).
-3.  **Configuración:**
-    * Verifica las credenciales de base de datos en `src/META-INF/persistence.xml`.
-4.  **Ejecutar:**
-    * Importa el proyecto en tu IDE favorito (Eclipse, IntelliJ, NetBeans).
-    * Ejecuta la clase principal `Main.java` (o la clase que inicie la GUI).
-
 ## 👤 Autores
 
 **Juan Lucas Miño**
 * Profesor Universitario en Computación
 * Estudiante de Licenciatura en Sistemas
-* [LinkedIn](/lucas-juan-mi)
+* [LinkedIn](https://www.linkedin.com/in/lucas-juan-mi)
 
 **Nazadyk Fernando Emanuel**
 * Estudiante de Analiste en Sistemas de Computación
 * Estudiante de Licenciatura en Sistemas de Información
-* [LinkedIn](/fernando-nasadyk)
+* [LinkedIn](https://www.linkedin.com/in/fernando-nasadyk/)
 
 ---
 *Este proyecto fue realizado con fines académicos demostrando el uso de patrones de diseño y persistencia de datos en Java.*
