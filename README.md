@@ -39,9 +39,9 @@ El sistema persiste la información utilizando un modelo relacional robusto en P
 
 ## 👤 Autores
 
-**Juan Lucas Miño**
+**Miño Lucas Juan**
 * Profesor Universitario en Computación
-* Estudiante de Licenciatura en Sistemas
+* Estudiante de Licenciatura en Sistemas de Información
 * [LinkedIn](https://www.linkedin.com/in/lucas-juan-mi)
 
 **Nazadyk Fernando Emanuel**
